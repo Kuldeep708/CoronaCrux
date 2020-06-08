@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+	<color name="colorPrimary">#fa5252</color>
+	<color name="colorPrimaryDark">#fa5252</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg__landing_page_color">#f2f6f8</color>
+	<color name="rectangle_53_color">#fa5252</color>
+	<color name="corona_virus_cases_color">#ffffff</color>
+	<color name="rectangle_54_color">#ffffff</color>
+	<color name="deaths_color">#696969</color>
+	<color name="_13_598_color">#fa5252</color>
+	<color name="_95_892_color">#34c360</color>
+	<color name="_206_577_color">#000000</color>
+	<color name="mild_condition_color">#afb8be</color>
+</resources>

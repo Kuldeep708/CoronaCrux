@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- landing_page strings -->
+
+    <string name="app_name">Landing Page</string>
+    <string name="ek_img_content">ExportKit Image</string>
+    <string name="corona_virus_cases_string">Corona Virus Cases</string>
+    <string name="_316_067_string">316,067</string>
+    <string name="mar_22__2020__12_48_gmt_string">Mar 22, 2020, 12:48 GMT</string>
+    <string name="deaths_string">Deaths</string>
+    <string name="_13_598_string">13,598</string>
+    <string name="recovered_string">Recovered</string>
+    <string name="_95_892_string">95,892</string>
+    <string name="active_cases_string">ACTIVE CASES</string>
+    <string name="_206_577_string">206,577</string>
+    <string name="mild_condition_string">Mild Condition</string>
+    <string name="_95__string">95%</string>
+    <string name="critical_string">Critical</string>
+    <string name="_5__string">5%</string>
+    <string name="closed_cases_string">CLOSED CASES</string>
+    <string name="_109_490_string">109,490</string>
+    <string name="recovered_ek1_string">Recovered</string>
+    <string name="_88__string">88%</string>
+    <string name="deaths_ek1_string">Deaths</string>
+    <string name="_12__string">12%</string>
+
+
+    <string name="action_settings">Settings</string>
+</resources>
